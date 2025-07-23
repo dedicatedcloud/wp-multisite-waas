@@ -22,7 +22,7 @@
       "step": "enableMultisite"
     },
     {
-      "step": "installPlugin",
+      "step": "pluginData",
       "pluginZipFile": {
         "resource": "url",
         "url": "https:\/\/github.com\/superdav42\/wp-multisite-waas\/releases\/download\/v2.4.1\/multisite-ultimate.zip"
